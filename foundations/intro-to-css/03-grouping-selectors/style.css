@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+.submit, 
+.nosubmit {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.submit {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.nosubmit {
+    background-color: #ffff00;
+}
