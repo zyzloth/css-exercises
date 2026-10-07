@@ -18,3 +18,39 @@ body {
 button {
   background: white;
 }
+
+card {
+  padding: 8px;
+}
+h1.title {
+  margin: 25px 10px 5px 10px;
+  padding: 5px 300px 5px 5px;
+  display: inline-block;
+  font-size: medium
+}
+
+div .content {
+  display: inline-block;
+  margin: 5px 10px 5px 10px;
+  padding: 20px 10px 20px 10px;
+}
+  
+div .button-container {
+  display: inline-block;
+  margin: 5px 10px 5px 10px;
+  padding: 20px 105px 20px 100px;
+  text-align: center;
+}
+
+div button {
+  padding-top: 5px;
+  padding-right: 40px;
+  padding-left: 40px;
+  padding-bottom: 5px;
+  white-space: nowrap;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  font-size: 15px;
+}
